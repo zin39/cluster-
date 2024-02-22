@@ -1,0 +1,7 @@
+name: Test_project
+runtime: go
+description: This project is to create a iac for huge company like doordash
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: aws-go
